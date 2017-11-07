@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assignment</string>
+    <string name="app_name">Transaction Master</string>
     <string name="login">Login</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -8,13 +8,15 @@
     <string name="reset">Reset</string>
 
     //register page
-    <string name="rUsername"  >Username : </string>
-    <string name="rGender"    >Gender : </string>
-    <string name="rEmail"     >Email : </string>
-    <string name="rPassword"  >Password : </string>
+    <string name="rUsername">Username : </string>
+    <string name="rGender">Gender : </string>
+    <string name="rEmail">Email : </string>
+    <string name="rPassword">Password : </string>
     <string name="rCfPassword">Confirm Password : </string>
-    <string name="rFingerP"   >Fingerprint : </string>
+    <string name="rFingerP">Fingerprint : </string>
     <string name="email">Email</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
+    <string name="next">Next</string>
+    <string name="scanS">Please scan your fingerprint for confirmation.</string>
 </resources>
