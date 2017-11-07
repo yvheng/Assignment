@@ -18,5 +18,7 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="next">Next</string>
-    <string name="scanS">Please scan your fingerprint for confirmation.</string>
+    <string name="scanFP">Please scan your fingerprint for confirmation.</string>
+    <string name="scanQR">Please scan the target account QR Code for transaction.</string>
+    <string name="camera">Open Camera</string>
 </resources>
