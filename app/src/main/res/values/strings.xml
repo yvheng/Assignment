@@ -21,4 +21,7 @@
     <string name="scanFP">Please scan your fingerprint for confirmation.</string>
     <string name="scanQR">Please scan the target account QR Code for transaction.</string>
     <string name="camera">Open Camera</string>
+    <string name="transaction">Transaction</string>
+    <string name="tAmount">Amount :</string>
+    <string name="Amount">Amount</string>
 </resources>
